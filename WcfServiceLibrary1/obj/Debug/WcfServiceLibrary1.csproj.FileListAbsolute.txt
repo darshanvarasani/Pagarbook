@@ -1,0 +1,8 @@
+G:\Documents\Darshan\sem-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Database1.mdf
+G:\Documents\Darshan\sem-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+G:\Documents\Darshan\sem-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+G:\Documents\Darshan\sem-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+G:\Documents\Darshan\sem-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache
+G:\Documents\Darshan\sem-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+G:\Documents\Darshan\sem-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+G:\Documents\Darshan\sem-6\SOC\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
